@@ -1,0 +1,13 @@
+A:\webapplication\Startingsetup\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+A:\webapplication\Startingsetup\Model\bin\Debug\netcoreapp3.1\Model.runtimeconfig.json
+A:\webapplication\Startingsetup\Model\bin\Debug\netcoreapp3.1\Model.runtimeconfig.dev.json
+A:\webapplication\Startingsetup\Model\bin\Debug\netcoreapp3.1\Model.dll
+A:\webapplication\Startingsetup\Model\bin\Debug\netcoreapp3.1\Model.pdb
+A:\webapplication\Startingsetup\Model\obj\Debug\netcoreapp3.1\Model.csproj.AssemblyReference.cache
+A:\webapplication\Startingsetup\Model\obj\Debug\netcoreapp3.1\Model.GeneratedMSBuildEditorConfig.editorconfig
+A:\webapplication\Startingsetup\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+A:\webapplication\Startingsetup\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+A:\webapplication\Startingsetup\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+A:\webapplication\Startingsetup\Model\obj\Debug\netcoreapp3.1\Model.dll
+A:\webapplication\Startingsetup\Model\obj\Debug\netcoreapp3.1\Model.pdb
+A:\webapplication\Startingsetup\Model\obj\Debug\netcoreapp3.1\Model.genruntimeconfig.cache

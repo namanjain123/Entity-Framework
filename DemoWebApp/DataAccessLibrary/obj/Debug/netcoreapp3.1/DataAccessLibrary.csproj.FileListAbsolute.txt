@@ -1,0 +1,10 @@
+A:\webapplication\DemoWebApp\DataAccessLibrary\bin\Debug\netcoreapp3.1\DataAccessLibrary.deps.json
+A:\webapplication\DemoWebApp\DataAccessLibrary\bin\Debug\netcoreapp3.1\DataAccessLibrary.dll
+A:\webapplication\DemoWebApp\DataAccessLibrary\bin\Debug\netcoreapp3.1\DataAccessLibrary.pdb
+A:\webapplication\DemoWebApp\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.csproj.AssemblyReference.cache
+A:\webapplication\DemoWebApp\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+A:\webapplication\DemoWebApp\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.AssemblyInfoInputs.cache
+A:\webapplication\DemoWebApp\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.AssemblyInfo.cs
+A:\webapplication\DemoWebApp\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.csproj.CoreCompileInputs.cache
+A:\webapplication\DemoWebApp\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.dll
+A:\webapplication\DemoWebApp\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.pdb

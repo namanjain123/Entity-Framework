@@ -10,6 +10,14 @@ This is the one basic CRUD api that is build over entity framework that allow us
 
 <br>
 
+**TestWebApi**
+<br>
+<li>This is one web api that uses all the crud api that is there you can make and use sql database to not only add but chnage a book details</li>
+<li>There is a Unit Test Using XUnit</li>
+<li>There is a Unit Test Using MsTest</li>
+<li>There is a Integration Test of This Web Api</li>
+<br>
+
 **Demo_Web_Application**
 <br>
 <li>This is the one that uses the entity framework and ts aplication to build a DemoWeb Page in which it accces the data from the datalibrarary in which adddress with details like city,state etc are there ,Email with its identity and email adddres to easily justify and accces many at the same time and then a person that contain all the information of the person and uses these data at the same time.</li>

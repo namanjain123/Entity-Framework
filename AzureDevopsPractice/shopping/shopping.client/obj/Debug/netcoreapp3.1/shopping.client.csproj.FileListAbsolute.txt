@@ -36,3 +36,41 @@ C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\My Files\Azur
 C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\My Files\AzureDevopsPractice\shopping\shopping.client\obj\Debug\netcoreapp3.1\shopping.client.pdb
 C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\My Files\AzureDevopsPractice\shopping\shopping.client\obj\Debug\netcoreapp3.1\shopping.client.genruntimeconfig.cache
 C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\My Files\AzureDevopsPractice\shopping\shopping.client\obj\Debug\netcoreapp3.1\shopping.client.csproj.CopyComplete
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\bin\Debug\netcoreapp3.1\appsettings.Development.json
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\bin\Debug\netcoreapp3.1\appsettings.json
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\bin\Debug\netcoreapp3.1\shopping.client.exe
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\bin\Debug\netcoreapp3.1\shopping.client.deps.json
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\bin\Debug\netcoreapp3.1\shopping.client.runtimeconfig.json
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\bin\Debug\netcoreapp3.1\shopping.client.runtimeconfig.dev.json
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\bin\Debug\netcoreapp3.1\shopping.client.dll
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\bin\Debug\netcoreapp3.1\shopping.client.pdb
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\bin\Debug\netcoreapp3.1\shopping.client.Views.dll
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\bin\Debug\netcoreapp3.1\shopping.client.Views.pdb
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\obj\Debug\netcoreapp3.1\shopping.client.csproj.AssemblyReference.cache
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\obj\Debug\netcoreapp3.1\shopping.client.GeneratedMSBuildEditorConfig.editorconfig
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\obj\Debug\netcoreapp3.1\shopping.client.AssemblyInfoInputs.cache
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\obj\Debug\netcoreapp3.1\shopping.client.AssemblyInfo.cs
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\obj\Debug\netcoreapp3.1\shopping.client.csproj.CoreCompileInputs.cache
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\obj\Debug\netcoreapp3.1\shopping.client.MvcApplicationPartsAssemblyInfo.cache
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\obj\Debug\netcoreapp3.1\shopping.client.RazorAssemblyInfo.cache
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\obj\Debug\netcoreapp3.1\shopping.client.RazorAssemblyInfo.cs
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\obj\Debug\netcoreapp3.1\staticwebassets\shopping.client.StaticWebAssets.Manifest.cache
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\obj\Debug\netcoreapp3.1\staticwebassets\shopping.client.StaticWebAssets.xml
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\obj\Debug\netcoreapp3.1\scopedcss\bundle\shopping.client.styles.css
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\obj\Debug\netcoreapp3.1\shopping.client.TagHelpers.input.cache
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\obj\Debug\netcoreapp3.1\shopping.client.TagHelpers.output.cache
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\obj\Debug\netcoreapp3.1\shopping.client.RazorCoreGenerate.cache
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\obj\Debug\netcoreapp3.1\shopping.client.RazorTargetAssemblyInfo.cache
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\obj\Debug\netcoreapp3.1\shopping.client.RazorTargetAssemblyInfo.cs
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\obj\Debug\netcoreapp3.1\shopping.client.Views.pdb
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\obj\Debug\netcoreapp3.1\shopping.client.dll
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\obj\Debug\netcoreapp3.1\shopping.client.pdb
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\obj\Debug\netcoreapp3.1\shopping.client.genruntimeconfig.cache
+A:\Project\Kuberneters Project\AzureDevopsPractice\shopping\shopping.client\obj\Debug\netcoreapp3.1\shopping.client.csproj.CopyComplete

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "VCmG7YwPZu93HQ+6ASR1cJtom01SI4z7SRwvSH7NdE9wsSscKC8phWLAXj77Lcgw7aX3ODxnf+gi6KBDCEG3hQ==",
+  "dgSpecHash": "zDPni/4lf2+z0gTKWmcMgkrxeTVeks33VWWJp/hRPH/45+jNu38XxKYAFYgGT9P+usW2ssqv4Oc6cI92mj+dTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\NamanJain\\OneDrive - Celebal Technologies Private Limited\\My Files\\AzureDevopsPractice\\shopping\\shopping.client\\shopping.client.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "A:\\Project\\Kuberneters Project\\AzureDevopsPractice\\shopping\\shopping.client\\shopping.client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
   "logs": []
 }

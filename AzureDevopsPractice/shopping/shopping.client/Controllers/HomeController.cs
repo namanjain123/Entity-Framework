@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using shopping.client.Data;
 using shopping.client.Models;
 using System;
 using System.Collections.Generic;
@@ -9,6 +10,7 @@ using System.Threading.Tasks;
 
 namespace shopping.client.Controllers
 {
+
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
@@ -20,7 +22,7 @@ namespace shopping.client.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            return View(ProductContext.Products);
         }
 
         public IActionResult Privacy()

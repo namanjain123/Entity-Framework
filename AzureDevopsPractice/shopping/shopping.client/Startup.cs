@@ -22,6 +22,9 @@ namespace shopping.client
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddHttpClient("shoppingapi", clinet => {
+                clinet.BaseAddress = new Uri("http://localhost:5000/");
+            });
             services.AddControllersWithViews();
         }
 

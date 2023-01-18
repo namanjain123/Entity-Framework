@@ -1,11 +1,14 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using Newtonsoft.Json;
 using shopping.client.Data;
 using shopping.client.Models;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
+using System.Net.Http;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace shopping.client.Controllers
@@ -14,15 +17,21 @@ namespace shopping.client.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly HttpClient _httpClient;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(IHttpClientFactory httpClient,ILogger<HomeController> logger)
         {
             _logger = logger;
+            _httpClient = httpClient.CreateClient("shoppingapi");
+
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View(ProductContext.Products);
+            var response = await _httpClient.GetAsync("/product");
+            var content = await response.Content.ReadAsStringAsync();
+            var productList = JsonConvert.DeserializeObject<IEnumerable<Product>>(content);
+            return View(productList);
         }
 
         public IActionResult Privacy()

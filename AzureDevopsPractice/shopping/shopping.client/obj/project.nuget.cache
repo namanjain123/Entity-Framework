@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tpO0N3ipm7OCDdkIh/AqkI0LMhdQWL9gCs1ieV6yJLN2nBljKklMBO3fqifnsFX3zgY3nlstIEfeR4zzUzo2SQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NamanJain\\OneDrive - Celebal Technologies Private Limited\\shopping\\shopping.client\\shopping.client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NamanJain\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\NamanJain\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
